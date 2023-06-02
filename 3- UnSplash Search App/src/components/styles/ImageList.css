@@ -1,0 +1,10 @@
+.image-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+img {
+  width: 100%;
+  margin-bottom: 10px;
+}

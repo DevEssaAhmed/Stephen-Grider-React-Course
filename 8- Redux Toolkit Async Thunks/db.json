@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "name": "Pat Kling",
+      "id": 1
+    },
+    {
+      "name": "Micheal Romaguera",
+      "id": 2
+    }
+  ],
+  "albums": [],
+  "photos": []
+}
